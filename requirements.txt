@@ -1,0 +1,16 @@
+numpy
+torch
+transformers 
+accelerate
+datasets
+python-dotenv
+pymongo
+termcolor
+evaluate
+openai
+anthropic
+sentencepiece
+bert_score
+overrides
+scikit-learn
+jinja2

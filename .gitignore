@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+*.log
+logs/
+MongoDB/*
+.DS_Store
